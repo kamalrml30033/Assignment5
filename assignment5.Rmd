@@ -1,0 +1,5 @@
+library(caret)
+library(gbm)
+data(scat)
+str(train)
+
